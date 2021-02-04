@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: matthewjdegarmo/MyTop8@v2.4-alpha
+      - uses: matthewjdegarmo/MyTop8@v2.5-alpha
         with:
           Users_list: brrees01, intenseone, EdwardHanlon, packersking, sannae, TylerLeonhardt, matthewjdegarmo, matthewjdegarmo
