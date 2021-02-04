@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
+  update-mytop8-section:
     name: Update this repo's README my top 8 users.
     runs-on: ubuntu-latest
     steps:
