@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: matthewjdegarmo/MyTop8@v3.5-alpha
+      - uses: matthewjdegarmo/MyTop8@main
         with:
-          users_list: TylerLeonhardt, brrees01, intenseone, EdwardHanlon, packersking, sannae, TylerLeonhardt, matthewjdegarmo
+          users_list: --MyspaceTom--, brrees01, intenseone, EdwardHanlon, packersking, sannae, TylerLeonhardt, matthewjdegarmo
