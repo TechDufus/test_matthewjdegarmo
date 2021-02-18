@@ -9,9 +9,6 @@ testing MyTop8 action against a repo README
 <td style=''><p><a href='https://github.com/intenseone'><img style='display: block; margin-left: auto; margin-right: auto;' src='https://github.com/intenseone.png' alt='' width='145' height='145' /></a></p><p style='text-align: center;'>3. <a href='https://github.com/intenseone'>intenseone</a></p></td>
 <td style=''><p><a href='https://github.com/EdwardHanlon'><img style='display: block; margin-left: auto; margin-right: auto;' src='https://github.com/EdwardHanlon.png' alt='' width='145' height='145' /></a></p><p style='text-align: center;'>4. <a href='https://github.com/EdwardHanlon'>EdwardHanlon</a></p></td>
 </tr><tr><td style=''><p><a href='https://github.com/packersking'><img style='display: block; margin-left: auto; margin-right: auto;' src='https://github.com/packersking.png' alt='' width='145' height='145' /></a></p><p style='text-align: center;'>5. <a href='https://github.com/packersking'>packersking</a></p></td>
-<td style=''><p><a href='https://github.com/sannae'><img style='display: block; margin-left: auto; margin-right: auto;' src='https://github.com/sannae.png' alt='' width='145' height='145' /></a></p><p style='text-align: center;'>6. <a href='https://github.com/sannae'>sannae</a></p></td>
-<td style=''><p><a href='https://github.com/TylerLeonhardt'><img style='display: block; margin-left: auto; margin-right: auto;' src='https://github.com/TylerLeonhardt.png' alt='' width='145' height='145' /></a></p><p style='text-align: center;'>7. <a href='https://github.com/TylerLeonhardt'>TylerLeonhardt</a></p></td>
-<td style=''><p><a href='https://github.com/matthewjdegarmo'><img style='display: block; margin-left: auto; margin-right: auto;' src='https://github.com/matthewjdegarmo.png' alt='' width='145' height='145' /></a></p><p style='text-align: center;'>8. <a href='https://github.com/matthewjdegarmo'>matthewjdegarmo</a></p></td>
 </tr></tbody></table>
 <!-- MYTOP8-LIST:END -->
 
@@ -19,7 +16,9 @@ testing MyTop8 action against a repo README
 
 
 
+
 Thanks for viewing!
+
 
 
 
