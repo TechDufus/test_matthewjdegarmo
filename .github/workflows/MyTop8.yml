@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: matthewjdegarmo/MyTop8@main
         with:
-          users_list: --MyspaceTom--, brrees01, intenseone, EdwardHanlon
+          users_list: --MyspaceTom--, brrees01, intenseone, EdwardHanlon, --MyspaceTom--, brrees01, intenseone, EdwardHanlon, --MyspaceTom--, brrees01, intenseone, EdwardHanlon
