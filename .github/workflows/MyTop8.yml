@@ -14,4 +14,4 @@ jobs:
       - uses: matthewjdegarmo/MyTop8@feature_size_percent
         with:
           users_list: --MyspaceTom--, matthewjdegarmo, brrees01, intenseone, EdwardHanlon, endoleg, packersking, TylerLeonhardt
-          table_size_percent: 50
+          table_size_percent: 135
