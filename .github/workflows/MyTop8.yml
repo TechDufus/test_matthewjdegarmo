@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: matthewjdegarmo/MyTop8@main
+      - uses: matthewjdegarmo/MyTop8@feature_size_percent
         with:
           users_list: --MyspaceTom--, matthewjdegarmo, brrees01, intenseone, EdwardHanlon, endoleg, packersking, TylerLeonhardt
+          table_size_percent: 50
